@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/VR-Project-test-task/static/css/main.44dc2442.css",
-    "main.js": "/VR-Project-test-task/static/js/main.b1bce332.js",
+    "main.css": "/VR-Project-test-task/static/css/main.642ae91d.css",
+    "main.js": "/VR-Project-test-task/static/js/main.e5d9fb5d.js",
+    "static/media/logo-text.svg": "/VR-Project-test-task/static/media/logo-text.1409e80f1355b9a0f787c574bbd05d1b.svg",
+    "static/media/logo.svg": "/VR-Project-test-task/static/media/logo.be4f201064a5ae1675d29c009af97076.svg",
     "index.html": "/VR-Project-test-task/index.html",
-    "main.44dc2442.css.map": "/VR-Project-test-task/static/css/main.44dc2442.css.map",
-    "main.b1bce332.js.map": "/VR-Project-test-task/static/js/main.b1bce332.js.map"
+    "main.642ae91d.css.map": "/VR-Project-test-task/static/css/main.642ae91d.css.map",
+    "main.e5d9fb5d.js.map": "/VR-Project-test-task/static/js/main.e5d9fb5d.js.map"
   },
   "entrypoints": [
-    "static/css/main.44dc2442.css",
-    "static/js/main.b1bce332.js"
+    "static/css/main.642ae91d.css",
+    "static/js/main.e5d9fb5d.js"
   ]
 }
