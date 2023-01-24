@@ -12,8 +12,6 @@ export const Container = styled.div`
 
 export const Main = styled.main``;
 
-export const SectionHero = styled.section`
-  width: 1520px;
-`;
+export const SectionHero = styled.section``;
 
 export const SectionFooter = styled.footer``;
