@@ -31,6 +31,14 @@ export const Item = styled.li`
     padding: 0px 66px;
     margin: 0 50px 0 42px;
   }
+  :first-child {
+    svg {
+      use {
+        stroke: none;
+        fill: #c0b7e8;
+      }
+    }
+  }
 `;
 export const Div = styled.div`
   margin-left: 17px;
@@ -40,7 +48,8 @@ export const Icon = styled.svg`
   width: 70px;
 
   use {
-    fill: #c0b7e8;
+    stroke: #c0b7e8;
+    fill: none;
   }
 `;
 export const Title = styled.h3`
