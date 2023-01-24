@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VR-Project-test-task/static/css/main.44dc2442.css",
+    "main.js": "/VR-Project-test-task/static/js/main.b1bce332.js",
+    "index.html": "/VR-Project-test-task/index.html",
+    "main.44dc2442.css.map": "/VR-Project-test-task/static/css/main.44dc2442.css.map",
+    "main.b1bce332.js.map": "/VR-Project-test-task/static/js/main.b1bce332.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44dc2442.css",
+    "static/js/main.b1bce332.js"
+  ]
+}
