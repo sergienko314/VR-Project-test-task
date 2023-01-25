@@ -1,3 +1,5 @@
+
+import Benefits from "components/Benefits/Benefits";
 import Contacts from "components/Contacts/Contacts";
 import Header from "components/Header/Header";
 import Hero from "components/Hero/Hero";
@@ -13,7 +15,9 @@ const HomePage = () => {
         <Hero />
         <Contacts />
         <SectionArrow title='INTRODUCTION' span='TO HYDRA VR' text={DataText} ></SectionArrow>
-        <Introduction/>
+        <Introduction />
+        <SectionArrow title='WHY BUILD' span='WITH HYDRA?' text={DataText} ></SectionArrow>
+        <Benefits/>
       </Main>
       <SectionFooter></SectionFooter>
     </Container>

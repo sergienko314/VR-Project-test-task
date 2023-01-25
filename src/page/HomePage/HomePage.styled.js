@@ -9,7 +9,8 @@ export const Container = styled.div`
   padding-right: 87px;
   width: 1266px;
   background-image: url(${hero});
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
   background-color: #302c42;
 `;
 
